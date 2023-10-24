@@ -64,3 +64,6 @@ Explore some of my open-source projects:
 Feel free to check out my repositories, provide feedback, or contribute. I'm always open to collaboration and learning from the community.
 
 Let's build a better software world, win virtual races, and keep learning together! 🏆🚀
+
+
+![](https://komarev.com/ghpvc/?username=PascalHaury&style=flat-square)
